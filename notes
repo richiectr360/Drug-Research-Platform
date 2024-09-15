@@ -2,3 +2,21 @@ Instructions/commands
 
 npm install
 
+npm install resend
+__________________________________
+
+Structure 
+
+components/layout -> 
+
+
+___________________________________
+
+config 
+
+node 2.1.12 
+
+rdkitjs
+
+
+
